@@ -20,7 +20,7 @@
     "test": "node ./__tests__/core.test.js"
   },
   "dependencies": {
-    "@yaomu-cli-test/utils": "^1.0.1"
+    "@yaomu-cli-test/utils": "^1.0.0"
   },
   "gitHead": "de7462edb43ea991682aabdbd7b9aa533a998d23"
 }

@@ -1,15 +1,6 @@
-0 silly argv { _: [ 'clean' ], lernaVersion: '6.6.2', '$0': 'lerna' }
-1 notice cli v6.6.2
-2 verbose rootPath /Users/zhaoxiaolin/Documents/person-project/cli-test-dev/yaomu-cli-test
-3 error JSONError: Unexpected token "}" (0x7D) in JSON at position 423 while parsing near "...u-cli\": \"^1.1.1\",\n  }\n}\n" in packages/core/package.json
-3 error
-3 error [0m [90m 19 |[39m   [32m"dependencies"[39m[33m:[39m {[0m
-3 error [0m [90m 20 |[39m     [32m"yaomu-cli"[39m[33m:[39m [32m"^1.1.1"[39m[33m,[39m[0m
-3 error [0m[31m[1m>[22m[39m[90m 21 |[39m   }[0m
-3 error [0m [90m    |[39m   [31m[1m^[22m[39m[0m
-3 error [0m [90m 22 |[39m }[0m
-3 error [0m [90m 23 |[39m[0m
-3 error
-3 error     at parseJson (/Users/zhaoxiaolin/.nvm/versions/node/v18.9.0/lib/node_modules/lerna/node_modules/parse-json/index.js:29:21)
-3 error     at parse (/Users/zhaoxiaolin/.nvm/versions/node/v18.9.0/lib/node_modules/lerna/node_modules/load-json-file/index.js:15:9)
-3 error     at module.exports (/Users/zhaoxiaolin/.nvm/versions/node/v18.9.0/lib/node_modules/lerna/node_modules/load-json-file/index.js:18:47)
+45 error Error: Command failed with exit code 128: git tag v1.0.1 -m v1.0.1
+45 error fatal: tag 'v1.0.1' already exists
+45 error     at makeError (/Users/zhaoxiaolin/.nvm/versions/node/v18.9.0/lib/node_modules/lerna/node_modules/execa/lib/error.js:59:11)
+45 error     at handlePromise (/Users/zhaoxiaolin/.nvm/versions/node/v18.9.0/lib/node_modules/lerna/node_modules/execa/index.js:114:26)
+45 error     at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+45 error     at async Promise.all (index 0)
