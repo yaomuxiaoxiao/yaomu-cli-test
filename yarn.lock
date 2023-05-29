@@ -569,15 +569,13 @@
 
 "@yaomu-cli-test/core@file:/Users/zhaoxiaolin/Documents/person-project/cli-test-dev/yaomu-cli-test/packages/core":
   "resolved" "file:packages/core"
-  "version" "1.0.0"
+  "version" "1.0.1"
   dependencies:
     "yaomu-cli" "^1.1.1"
 
-"@yaomu-cli-test/utils@file:/Users/zhaoxiaolin/Documents/person-project/cli-test-dev/yaomu-cli-test/packages/utils":
+"@yaomu-cli-test/utils@^1.0.1", "@yaomu-cli-test/utils@file:/Users/zhaoxiaolin/Documents/person-project/cli-test-dev/yaomu-cli-test/packages/utils":
   "resolved" "file:packages/utils"
-  "version" "1.0.0"
-  dependencies:
-    "yaomu-cli" "^1.1.1"
+  "version" "1.0.1"
 
 "@yarnpkg/lockfile@^1.1.0":
   "integrity" "sha512-GpSwvyXOcOOlV70vbnzjj4fW5xW/FdUF6nQEt1ENy7m4ZCczi1+/buVUPAqmGfqznsORNFzUMjctTIp8a9tuCQ=="
@@ -4635,18 +4633,6 @@
   "integrity" "sha512-r3vXyErRCYJ7wg28yvBY5VSoAF8ZvlcW9/BwUzEtUsjvX/DKs24dIkuwjtuprwJJHsbyUbLApepYTR1BN4uHrg=="
   "resolved" "https://registry.npmjs.org/yaml/-/yaml-1.10.2.tgz"
   "version" "1.10.2"
-
-"yaomu-cli-lib@^1.1.0":
-  "integrity" "sha512-dlNls6cVMSJStxpK/zBGVkNVDBD7gYOa3Qi3IfFRjxuWiIl6OL1SkBTlFqelfO0J52KYHVjJgt+/U5vCUWaIMw=="
-  "resolved" "http://npm.guazi-corp.com/yaomu-cli-lib/-/yaomu-cli-lib-1.1.0.tgz"
-  "version" "1.1.0"
-
-"yaomu-cli@^1.1.1":
-  "integrity" "sha512-4GI0zIeerx+xq//RvZp+A9AqJCHH1zXlm7BjKu+9q78s0qBod/fqBsgsoy7OoA0LIXBlDrOgdwdWw0Whr0ER2g=="
-  "resolved" "http://npm.guazi-corp.com/yaomu-cli/-/yaomu-cli-1.1.1.tgz"
-  "version" "1.1.1"
-  dependencies:
-    "yaomu-cli-lib" "^1.1.0"
 
 "yargs-parser@^20.2.2":
   "integrity" "sha512-y11nGElTIV+CT3Zv9t7VKl+Q3hTQoT9a1Qzezhhl6Rp21gJ/IVTW7Z3y9EWXhuUBC2Shnf+DX0antecpAwSP8w=="
