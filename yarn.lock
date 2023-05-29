@@ -571,7 +571,7 @@
   "resolved" "file:packages/core"
   "version" "1.0.1"
   dependencies:
-    "@yaomu-cli-test/utils" "^1.0.2"
+    "@yaomu-cli-test/utils" "^1.0.1"
 
 "@yaomu-cli-test/utils@^1.0.1", "@yaomu-cli-test/utils@file:/Users/zhaoxiaolin/Documents/person-project/cli-test-dev/yaomu-cli-test/packages/utils":
   "resolved" "file:packages/utils"
