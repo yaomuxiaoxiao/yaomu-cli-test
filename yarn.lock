@@ -569,13 +569,13 @@
 
 "@yaomu-cli-test/core@file:/Users/zhaoxiaolin/Documents/person-project/cli-test-dev/yaomu-cli-test/packages/core":
   "resolved" "file:packages/core"
-  "version" "1.0.3"
+  "version" "1.0.4"
   dependencies:
-    "@yaomu-cli-test/utils" "^1.0.1"
+    "@yaomu-cli-test/utils" "^1.0.3"
 
-"@yaomu-cli-test/utils@^1.0.3", "@yaomu-cli-test/utils@file:/Users/zhaoxiaolin/Documents/person-project/cli-test-dev/yaomu-cli-test/packages/utils":
+"@yaomu-cli-test/utils@^1.0.4", "@yaomu-cli-test/utils@file:/Users/zhaoxiaolin/Documents/person-project/cli-test-dev/yaomu-cli-test/packages/utils":
   "resolved" "file:packages/utils"
-  "version" "1.0.3"
+  "version" "1.0.4"
 
 "@yarnpkg/lockfile@^1.1.0":
   "integrity" "sha512-GpSwvyXOcOOlV70vbnzjj4fW5xW/FdUF6nQEt1ENy7m4ZCczi1+/buVUPAqmGfqznsORNFzUMjctTIp8a9tuCQ=="
