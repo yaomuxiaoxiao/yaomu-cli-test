@@ -1,6 +1,6 @@
 {
   "name": "@yaomu-cli-test/core",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "> TODO: description",
   "author": "yaomuxiaoxiao <yaomuxiaoxiao@gmail.com>",
   "homepage": "",
@@ -20,7 +20,7 @@
     "test": "node ./__tests__/core.test.js"
   },
   "dependencies": {
-    "@yaomu-cli-test/utils": "^1.0.1"
+    "@yaomu-cli-test/utils": "^1.0.2"
   },
   "gitHead": "d50f47e0e0354da7b2bc04cf0b5dd1724564cab7"
 }
